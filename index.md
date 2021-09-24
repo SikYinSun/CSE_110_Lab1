@@ -32,5 +32,5 @@ Program that I love to use
 4. ARM
    
 - [x] Have fun
-- [] Find internship
-- [] apply for grad school
+- [ ] Find internship
+- [ ] apply for grad school
