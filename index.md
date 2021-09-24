@@ -31,6 +31,6 @@ Program that I love to use
 3. C
 4. ARM
    
--[x] Have fun
--[] Find internship
--[] apply for grad school
+- [x] Have fun
+- [] Find internship
+- [] apply for grad school
