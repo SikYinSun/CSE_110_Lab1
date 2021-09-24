@@ -1,5 +1,7 @@
-#First website
-*My name is Sik Yin Sun, I am a 4th year computer science student in UCSD.*
+# First website
+***My name is Sik Yin Sun, I am a 4th year computer science student in UCSD.***
+
+[favourite programming](index.md)
 
 In the words of Bill Gate
 >The computer was born to solve problems that did not exist before.
@@ -16,6 +18,7 @@ This site have more variales in [C++](https://www.w3schools.com/cpp/cpp_variable
 
 [A little more about me](README.md) 
 
+# Favorite programming language
 Program that I used before
 - C++
 - C
