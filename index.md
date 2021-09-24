@@ -1,7 +1,7 @@
 # First website
 ***My name is Sik Yin Sun, I am a 4th year computer science student in UCSD.***
 
-[Favourite programming]([index.md](https://github.com/SikYinSun/CSE_110_Lab1/blob/new-add-read-me/index.md#favorite-programming-language))
+[Favourite programming]([index.md](https://github.com/SikYinSun/CSE_110_Lab1/blob/new-add-read-me/index.md#favorite-programming-language)
 
 In the words of Bill Gate
 >The computer was born to solve problems that did not exist before.
